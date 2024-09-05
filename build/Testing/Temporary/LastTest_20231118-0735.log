@@ -1,0 +1,18 @@
+Start testing: Nov 18 20:24 MSK
+----------------------------------------------------------
+6/6 Testing: test-6
+6/6 Test: test-6
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/anastasiapronina/assignment-3-image-rotation/tester/tests/6" "-DIMAGE_TRANSFORMER=/Users/anastasiapronina/assignment-3-image-rotation/build/solution/image-transformer" "-DIMAGE_MATCHER=/Users/anastasiapronina/assignment-3-image-rotation/build/tester/image-matcher" "-P" "/Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/anastasiapronina/assignment-3-image-rotation/build/tester
+"test-6" start time: Nov 18 20:24 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test-6" end time: Nov 18 20:24 MSK
+"test-6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 20:24 MSK

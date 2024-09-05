@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20231118-0735-Experimental"
+	Name="MacBook-Pro-Anastasia-4.local"
+	Generator="ctest-3.24.2"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="MacBook-Pro-Anastasia-4.local"
+	OSRelease="12.3"
+	OSVersion="21E230"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="8192"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Nov 18 20:24 MSK</StartDateTime>
+		<StartTestTime>1700328286</StartTestTime>
+		<TestList>
+			<Test>./tester/test-6</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test-6</Name>
+			<Path>./tester</Path>
+			<FullName>./tester/test-6</FullName>
+			<FullCommandLine>/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake "-DTEST_DIR=/Users/anastasiapronina/assignment-3-image-rotation/tester/tests/6" "-DIMAGE_TRANSFORMER=/Users/anastasiapronina/assignment-3-image-rotation/build/solution/image-transformer" "-DIMAGE_MATCHER=/Users/anastasiapronina/assignment-3-image-rotation/build/tester/image-matcher" "-P" "/Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0664545</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake "-DTEST_DIR=/Users/anastasiapronina/assignment-3-image-rotation/tester/tests/6" "-DIMAGE_TRANSFORMER=/Users/anastasiapronina/assignment-3-image-rotation/build/solution/image-transformer" "-DIMAGE_MATCHER=/Users/anastasiapronina/assignment-3-image-rotation/build/tester/image-matcher" "-P" "/Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 18 20:24 MSK</EndDateTime>
+		<EndTestTime>1700328286</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/bmp_file_processing.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/bmp_file_processing.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/bmp_file_processing.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/image_format.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/image_format.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/image_format.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/main.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/main.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/main.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/none_types.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/none_types.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/none_types.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/rotation.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/rotation.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/rotation.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/string_math.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/string_math.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/string_math.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/solution",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/solution/src -I/Users/anastasiapronina/assignment-3-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-transformer.dir/src/vector_math.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/solution/src/vector_math.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/solution/src/vector_math.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/tester",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/tester/src -I/Users/anastasiapronina/assignment-3-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-matcher.dir/src/bmp.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/tester/src/bmp.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/tester/src/bmp.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/tester",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/tester/src -I/Users/anastasiapronina/assignment-3-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-matcher.dir/src/file_cmp.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/tester/src/file_cmp.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/tester/src/file_cmp.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/tester",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/tester/src -I/Users/anastasiapronina/assignment-3-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-matcher.dir/src/main.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/tester/src/main.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/tester/src/main.c"
+},
+{
+  "directory": "/Users/anastasiapronina/assignment-3-image-rotation/build/tester",
+  "command": "/usr/bin/clang  -I/Users/anastasiapronina/assignment-3-image-rotation/tester/src -I/Users/anastasiapronina/assignment-3-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/image-matcher.dir/src/util.c.o -c /Users/anastasiapronina/assignment-3-image-rotation/tester/src/util.c",
+  "file": "/Users/anastasiapronina/assignment-3-image-rotation/tester/src/util.c"
+}
+]

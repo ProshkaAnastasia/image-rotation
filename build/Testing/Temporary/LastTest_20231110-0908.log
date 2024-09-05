@@ -1,0 +1,37 @@
+Start testing: Nov 10 14:24 MSK
+----------------------------------------------------------
+7/7 Testing: test-6
+7/7 Test: test-6
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/anastasiapronina/assignment-3-image-rotation/tester/tests/6" "-DIMAGE_TRANSFORMER=/Users/anastasiapronina/assignment-3-image-rotation/build/solution/image-transformer" "-DIMAGE_MATCHER=/Users/anastasiapronina/assignment-3-image-rotation/build/tester/image-matcher" "-P" "/Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/anastasiapronina/assignment-3-image-rotation/build/tester
+"test-6" start time: Nov 10 14:24 MSK
+Output:
+----------------------------------------------------------
+CMake Error at /Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake:20 (message):
+  
+
+  Error running "image-matcher"
+
+  *** Output: ***
+
+  <empty>
+
+  *** Error: ***
+
+  Bad first input file
+
+  
+
+Call Stack (most recent call first):
+  /Users/anastasiapronina/assignment-3-image-rotation/tester/tester.cmake:27 (exec_check)
+
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test-6" end time: Nov 10 14:24 MSK
+"test-6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 10 14:24 MSK
